@@ -7,3 +7,5 @@ Goal is quantitive review or sentiment measure with more granularity than just p
   
 Also, categorise topics in fixed groupings (without training data) and provide an explanation of why a review was given a specific grouping.
 
+A worked example is provided in notebook [Amazon Reviews Sentiment.ipynb](./Amazon Reviews Sentiment.ipynb)
+
